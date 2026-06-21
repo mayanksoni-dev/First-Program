@@ -1,6 +1,6 @@
 import math
 from datetime import datetime
-
+#try
 class AdvancedCalculator:
     """Advanced calculator with history, memory, aur scientific operations"""
     
@@ -8,7 +8,7 @@ class AdvancedCalculator:
         self.history = []
         self.memory = 0
         self.last_result = 0
-    
+
     def add(self, a, b):
         """दो numbers को add करता है"""
         return a + b
